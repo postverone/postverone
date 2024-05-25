@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @postverone!
 - 👀 I’m interested in learning JavaScript, python, and other programming languages
-- 🌱 I’m currently learning JavaScript on freeCodeCamp (one more project to complete and I'm done!!)
-- 💞️ I’m looking to collaborate on future projects, bug fixes and quality assurance
+- 🌱 I’m currently learning React and expanding my knowledge of vanilla JS.
+- 💞️ I’m looking to collaborate on projects, bug fixes and quality assurance.
 - 📫 How to reach me: Send a message!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have 3 cats.
